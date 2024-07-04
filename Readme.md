@@ -19,14 +19,14 @@ Project: Maven(Maven is a popular build automation and dependency management too
 - Java version: 17
 
 # *  Add some Dependencies: *
-Spring Web: It is a module of the Spring Framework that provides support for building web applications and RESTful APIs.
-Lombok: Java library that helps reduce boilerplate code in Java classes by providing annotations that automatically generate common code, such as getters, setters, constructors, and more.
-Spring Data JPA: It is a part of the Spring Data project that simplifies the development of data access layers in Java applications using the Java Persistence API (JPA).
-MySQL Drive: MySQL Driver, also known as the MySQL Connector/J, is a Java database driver specifically designed to connect Java applications with MySQL databases
+- Spring Web: It is a module of the Spring Framework that provides support for building web applications and RESTful APIs.
+- Lombok: Java library that helps reduce boilerplate code in Java classes by providing annotations that automatically generate common code, such as getters, setters, constructors, and more.
+- Spring Data JPA: It is a part of the Spring Data project that simplifies the development of data access layers in Java applications using the Java Persistence API (JPA).
+- MySQL Drive: MySQL Driver, also known as the MySQL Connector/J, is a Java database driver specifically designed to connect Java applications with MySQL databases
 
 #OTHER(not inside the Spring Initializr dependencies)
-ModelMapper: Java library that helps make mapping easy. This helps especially dealing with our dtos
-Openapi - Swagger: This automatically deploy swagger-ui to the spring-boot application. It helps us with our documentation
+- ModelMapper: Java library that helps make mapping easy. This helps especially dealing with our dtos
+- Openapi - Swagger: This automatically deploy swagger-ui to the spring-boot application. It helps us with our documentation
 
 
 DEVELOPMENT
