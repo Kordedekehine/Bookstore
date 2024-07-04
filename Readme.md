@@ -38,6 +38,12 @@ DEVELOPMENT
 - Add the following configuration to the file
 - Run the application and there should not be any problem
 
+TO ACCESS THE DOCUMENTATION:
+- Once the application is running
+- Run  http://localhost:8080/swagger-ui/index.html#/ then you can easily interact with the API'S
+
+
+
 
 # ** Project Flow 
 - The client makes an HTTP request to a specific endpoint of the application, typically initiated through a web browser or API client.
@@ -53,13 +59,15 @@ DEVELOPMENT
 
 # *** ENDPOINTS ** #
 
+![img_1.png](img_1.png)
+
 ![img_2.png](img_2.png)
 
 ![img_3.png](img_3.png)
 
 ![img_4.png](img_4.png)
 
-![img_2.png](img_2.png)
+
 
 
 

@@ -4,8 +4,6 @@ public class Constants {
 
     public final static String AUTHOR_RETRIEVED_SUCCESS = "Author successfully retrieved";
 
-    public final static String KINS_NOT_FOUND = "Next Of Kin cannot be found";
-
     public final static String AUTHOR_CREATED_SUCCESS = "Author successfully created";
 
     public final static String AUTHORS_UPDATED_SUCCESS = "Author Successfully updated";
